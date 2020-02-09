@@ -249,7 +249,7 @@ animation: 3s ease-in-out 0s 1 slideup;
   }
   .unit{
     font-family: 'Merriweather', serif;
-    font-size:5px;
+    font-size:1vh;
   }
 #p2bg{
   /* top:90px; */
