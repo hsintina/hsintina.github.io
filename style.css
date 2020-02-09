@@ -492,6 +492,7 @@ animation: 3s ease-in-out 0s 1 slideup;
 /*   margin-top:5%; */
   align-items:center;
   width:40%;
+  z-index: 10;
 }
 .foodpic{
   position: relative;
